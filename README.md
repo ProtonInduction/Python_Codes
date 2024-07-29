@@ -1,1 +1,1 @@
-Pyhton Cocdes to make life easier
+Python Cocdes to make life easier
