@@ -1,5 +1,5 @@
 
-class Count_Word_Multiples
+class Count_Word_Multiples:
     def count_word_multiples(file_path):
         word_counts = {}
         
