@@ -14,7 +14,7 @@ def count_word_multiples(file_path):
     
     return multiples
 
-file_path = 'diseases.txt'
+file_path = 'file.txt'
 multiples = count_word_multiples(file_path)
 
 for word, count in multiples.items():
